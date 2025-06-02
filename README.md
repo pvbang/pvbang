@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Phan Van Bang
 ## AI Engineer & Backend Developer
 
-Passionate about crafting intelligent AI-driven systems and robust, high-performance backend solutions. Currently innovating at **MekongAI** and live in Danang city.
+Passionate about crafting intelligent AI-driven systems and robust, high-performance backend solutions. Currently innovating at **MekongAI**.
 
 ---
 
