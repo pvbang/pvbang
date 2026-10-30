@@ -66,7 +66,7 @@ highlights:
 ![RAG](https://img.shields.io/badge/RAG_&_GraphRAG-00B4D8?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-7B2FF7?style=flat-square&logo=robot&logoColor=white)
 ![Agent Debate](https://img.shields.io/badge/Structured_Agent_Debate-FF9F1C?style=flat-square&logo=hive&logoColor=white)
-![ReAct](https://img.shields.io/badge/ReAct_Reasoning_Loop-E63946?style=flat-square&logo=atom&logoColor=white)
+![ReAct](https://img.shields.io/badge/Agentic_Reasoning_Loop-E63946?style=flat-square&logo=atom&logoColor=white)
 ![Deep Analysis](https://img.shields.io/badge/Deep_Analysis_Engine-4B0082?style=flat-square&logo=microscope&logoColor=white)
 ![Self-Reflection](https://img.shields.io/badge/Self--Reflection_&_Critic_Agent-FF6B6B?style=flat-square&logo=mirror&logoColor=white)
 ![Autonomous Goal](https://img.shields.io/badge/Autonomous_Goal_Engine-2EC4B6?style=flat-square&logo=target&logoColor=white)
@@ -238,7 +238,7 @@ highlights:
 
 - 190+ MCP tools with structured agent debate
 - XSkill continual learning engine
-- ReAct reasoning loop & Deep Analysis Engine
+- multi-step reasoning loop & Deep Analysis Engine
 - Self-Reflection, Critic Agent & Dreaming Engine
 - 9 chat channels, circuit breaker + provider fallback, 218 test files
 - Multi-channel: WebSocket, Telegram, Discord, Slack, WhatsApp, Email
