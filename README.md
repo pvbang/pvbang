@@ -40,7 +40,7 @@
 
 An interactive CV you can walk through: a Minecraft-style 3D world that runs in the browser (Three.js, no install, desktop and mobile).
 
-- 🏛️ **6 buildings** = 6 parts of the CV (experience, projects, skills, ...)
+- 🏛️ **6 stops** = 6 parts of the CV and career journey
 - 💎 **12 Knowledge Shards** to collect
 - 🗣️ **4 NPCs** with stories to tell
 - 🏆 **Achievements** and a CV passport
@@ -67,7 +67,7 @@ Prefer a quick look? Pick **Quick auto tour** on the start screen. Run locally: 
 ```yaml
 name: Phan Van Bang
 role: AI Engineer
-location: Da Nang, Vietnam
+location: Phú An, Phú Vang, Huế, Vietnam
 experience: 3+ years professional
 company: Freelance (previously MekongAI, 06/2023 - 07/2026)
 
@@ -77,14 +77,17 @@ specialization:
   - Voice AI (STT, streaming TTS, VAD)
   - IoT Integration with MCP Protocol
   - Continual Learning Systems (XSkill)
-  - Computer Vision & NLP
+  - Computer Vision, ComfyUI & AI Image Workflows
+  - n8n Automation, Chatbots & Production Operations
+  - ESP32, Linux/Windows VPS, Docker & DevOps
 
 highlights:
   - Open-source multi-agent platform (github.com/pvbang/nexus): 192 registered MCP tools, 1,373 test functions
-  - Hybrid RAG + GraphRAG (vector + full-text + graph, RRF fusion, cross-encoder rerank)
+  - Hybrid RAG + GraphRAG, voice AI, chatbots and automation across multiple product domains
+  - Coordinated a 7-person AI team while contributing to delivery, technical direction and system operations
   - LangGraph vehicle-repair assistant for a client: ReAct + verify loop, hybrid retrieval
-  - M-Auto Studio: multi-channel AI YouTube studio with a self-correcting quality critic
-  - Also: Unity online RPG, commercial MQL5 trading EA with licensing website (live copy-trading masters since 09/2026), AI copy and video production
+  - M-Auto Studio and Google Flow experiments for AI image/video production and YouTube automation
+  - Also: Unity online RPG, Unity 2D platformer, commercial MQL5 trading EA and interactive TikTok Live game
 ```
 
 <!-- Animated Divider -->
@@ -267,8 +270,8 @@ highlights:
 <tr>
 <td width="50%">
 
-### 🌐 MekongAI Nexus
-**Multi-Agent Orchestration System**
+### 🌐 [Nexus](https://github.com/pvbang/nexus)
+**Open-source Multi-Agent Orchestration System**
 
 `FastAPI` `React` `PostgreSQL + pgvector` `Redis` `Docker`
 
@@ -282,7 +285,7 @@ highlights:
 </td>
 <td width="50%">
 
-### 📚 MekongAI Knowlympic
+### 📚 Knowlympic
 **AI Learning Content Platform**
 
 `FastAPI` `React` `Celery + Redis` `Qdrant` `PaddleOCR`
@@ -297,7 +300,7 @@ highlights:
 <tr>
 <td width="50%">
 
-### 🧬 MekongAI MetaHuman
+### 🧬 MetaHuman
 **AI Personality & Voice Platform**
 
 `FastAPI` `React` `PostgreSQL` `Whisper STT` `Fish Audio`
@@ -353,7 +356,7 @@ highlights:
 <tr>
 <td width="50%">
 
-### 🎬 MekongAI TikVault
+### 🎬 TikVault
 **AI Video/Photo Analysis Platform**
 
 `FastAPI` `React 19` `MongoDB` `Gemini AI`
@@ -416,7 +419,32 @@ highlights:
 
 - 178 first-party C# scripts, custom Firebase online sync
 - Enemy combat AI with 7-skill combos, inventory and quests
+- [Open-source repository](https://github.com/pvbang/unity3d-game-eternal-odyssey)
 - In-game AI lore assistant streamed over SSE
+
+</td>
+<td width="50%">
+
+### 🎮 No Than
+**Unity 2D Platformer**
+
+`Unity 2D` `C#` `Cinemachine`
+
+- Mobile and desktop platformer with double jump, dash, skills, enemies, traps and boss flow
+- [Open-source repository](https://github.com/pvbang/unity2d-platformer-no-than)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏮 Nguyện Ước Dòng Sông
+**Interactive TikTok Live Game**
+
+`Python` `TikTokLive` `WebSocket` `Canvas 2D` `OBS`
+
+- Gifts and comments trigger lanterns, wish ribbons, viewer names/avatars, rankings and festival events
+- TikTok bridge, queueing, Vietnamese TTS, streamer control panel and mock mode for testing
 
 </td>
 <td width="50%">
@@ -451,7 +479,7 @@ highlights:
 
 **Bachelor of Engineering in Information Technology**  
 Vietnam-Korea University of Information and Communication Technology (VKU)  
-📍 Da Nang, Vietnam | 🗓️ 2020 - 2025
+📍 Based in Phú An, Phú Vang, Huế | 🗓️ 2020 - 2025 (VKU, Đà Nẵng)
 
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
